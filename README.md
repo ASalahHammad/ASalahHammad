@@ -4,4 +4,4 @@ A teaching assistant and aerospace engineering graduate from Cairo University, 2
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ASalahHammad)](https://github.com/stats-organization/github-stats-extended)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ASalahHammad&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=ASalahHammad&layout=compact&langs_count=4&theme=transparent)
