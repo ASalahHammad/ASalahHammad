@@ -1,12 +1,20 @@
 ## Introduction
-A teaching assistant and aerospace engineering graduate from Cairo University, 2025, with research interests spanning theoretical mechanics, computational mechanics, and physics-informed machine learning. Alongside research, I am actively developing and maintaining a variety of courses related to aerospace engineering, including but not limited to robotics, flight mechanics, autopilot design and aircraft design sessions.
+<div>
+  
+  A teaching assistant and aerospace engineering graduate from Cairo University, 2025, with research interests spanning theoretical mechanics, computational mechanics, and physics-informed machine learning. Alongside research, I am actively developing and maintaining a variety of courses related to aerospace engineering, including but not limited to robotics, flight mechanics, autopilot design and aircraft design sessions.
+  
+</div> <div>
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ASalahHammad&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=light_github)](https://github.com/ASalahHammad)
+  
+</div>
+
+
 
 <!--
   Once you've deployed your own stats instance, use find-and-replace to
      swap  github-stats-extended.vercel.app  for  your-app.vercel.app
 -->
-
-## 📫 Get in touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asalahhammad"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" /></a>
