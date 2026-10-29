@@ -4,7 +4,7 @@
 </a>
 
 <p>
-Teaching and researching assistant, having graduated with a BSc in aerospace engineering graduate from Cairo University, 2025, my research interests span theoretical mechanics, computational mechanics, and physics-informed machine learning. Alongside research, I am actively developing and maintaining a few courses related to aerospace engineering, including robotics, flight mechanics, guidance, navigation & control and aircraft design sessions.
+Teaching and research assistant, having graduated with a BSc in aerospace engineering graduate from Cairo University, 2025, my research interests span theoretical mechanics, computational mechanics, and physics-informed machine learning. Alongside research, I am actively developing and maintaining a few courses related to aerospace engineering, including robotics, flight mechanics, guidance, navigation & control and aircraft design sessions.
 </p>
 
 <a href="https://github.com/ASalahHammad">
